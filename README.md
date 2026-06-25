@@ -1,7 +1,7 @@
-[![MasterHead](https://www.magnific.com/free-vector/web-development-isometric-concept-composition-illustration_13805027.htm#fromView=keyword&page=1&position=5&uuid=7f569039-bc0d-4b02-a0e8-8f0927c9d6c4&query=Software+development+banner)]()
+![MasterHead](banner.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=programmer%20animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmashrur-rahman-fahim%2Fmashrur-rahman-fahim&docid=Ms9VDa3xvTl2CM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwj7sru4hqKVAxUq4jgGHRtmJhcQnPAOegQIIxAB..i&w=800&h=600&hcb=2&ved=2ahUKEwj7sru4hqKVAxUq4jgGHRtmJhcQnPAOegQIIxAB">
+<img align="right" alt="Coding" width="400" src="coding.gif">
 <p align="left"> <img src=https://github.com/mashrur-rahman-fahim/mashrur-rahman-fahim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav6392" alt="vishalyadav6392" /></a> </p>
